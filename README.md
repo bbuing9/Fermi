@@ -1,2 +1,2 @@
 # Fermi
-Official implementation of Few-shot Personalization of LLMs with Mis-aligned Responses
+Official implementation of **F**w-shot P**er**sonalization of LLMs with **Mi**s-aligned Responses (Fermi)
